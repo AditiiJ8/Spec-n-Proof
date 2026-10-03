@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+*.tmp
+# Data files created when you try the demo CLI in place
+expenses.json
