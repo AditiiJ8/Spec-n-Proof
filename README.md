@@ -138,3 +138,5 @@ Passing tests mean the files are well formed and consistent. They do not show th
 Released under the [MIT License](LICENSE).
 
 This project was written independently. It shares a general idea with [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills), which was suggested as inspiration: agent workflows that specify first, work in small steps, and verify. No text or code from that project is used here, and this project is not affiliated with it. The file format follows the public [Agent Skills specification](https://agentskills.io/specification).
+
+Built by: Aditi Jaiswal
